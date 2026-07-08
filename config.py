@@ -16,7 +16,7 @@ dQIDAQAB
 -----END PUBLIC KEY-----"""
 
 Q3_PORT = 8311
-Q3_WORKERS = 1
+Q3_WORKERS = 3
 Q3_DEBUG = False
 Q3_LOG_LEVEL = "info"
 
