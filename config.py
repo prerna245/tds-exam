@@ -20,7 +20,7 @@ Q3_WORKERS = 3
 Q3_DEBUG = False
 Q3_LOG_LEVEL = "info"
 
-Q5_API_KEY = "ak_iioar1gdonhjkqwrvasjvbwu"
+Q5_API_KEY = "#ak_iioar1gdonhjkqwrvasjvbwu"
 
 Q9_TOTAL_ORDERS = 50
 Q9_RATE_LIMIT = 20
