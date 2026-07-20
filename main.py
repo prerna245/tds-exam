@@ -368,3 +368,8 @@ async def get_orders(limit: int = 10, cursor: str = None):
 @app.get("/ping")
 async def ping(request: Request):
     return {"email": config.EMAIL, "request_id": request.state.req_id}
+
+
+@app.get("/")
+async def root():
+    return {"ok": True}
